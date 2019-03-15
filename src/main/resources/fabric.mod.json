@@ -1,0 +1,14 @@
+{
+  "id": "silktest",
+  "name": "Silk Test",
+  "description": "A simple mod to demonstrate a bug in the Silk API",
+  "version": "${version}",
+  "side": "universal",
+  "initializers": [
+    "com.raphydaphy.silktest.SilkTest"
+  ],
+  "requires": {
+    "fabric": "*",
+    "silk": "*"
+  }
+}

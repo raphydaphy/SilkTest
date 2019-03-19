@@ -8,7 +8,6 @@
     "com.raphydaphy.silktest.SilkTest"
   ],
   "requires": {
-    "fabric": "*",
-    "silk": "*"
+    "fabric": "*"
   }
 }

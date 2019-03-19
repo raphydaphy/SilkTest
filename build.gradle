@@ -33,9 +33,6 @@ dependencies {
 
 	// Fabric API. This is technically optional, but you probably want it anyway.
 	modCompile "net.fabricmc:fabric:${project.fabric_version}"
-
-	// Silk
-	modCompile "com.github.prospector:Silk:${project.silk_version}"
 }
 
 processResources {
